@@ -1,2 +1,2 @@
-# Biblio-Teca
-biblioteca basica em js
+# Lanchonete
+lanchonete legal em liguagem interpretada, tmj
